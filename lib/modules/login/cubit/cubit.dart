@@ -2,7 +2,7 @@
 
 import 'package:cubit_form/cubit_form.dart';
 import 'package:flutter/material.dart';
-import 'package:login/screens/login/cubit/states.dart';
+import 'package:login/modules/login/cubit/states.dart';
 import 'package:login/models/login_model.dart';
 import '../../../../shared/network/remote/dio_helper.dart';
 

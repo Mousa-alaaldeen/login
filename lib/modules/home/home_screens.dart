@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors, use_super_parameters
 
 import 'package:flutter/material.dart';
-import 'package:login/screens/login/login_screen.dart';
+import 'package:login/modules/login/login_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   
